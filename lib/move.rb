@@ -11,6 +11,5 @@ def input_to_index(user_input)
   user_input.to_i - 1
 end
 
-def move(board, position, token = "X")
-  board(position[0])
+def move(board, position_on_board, game_piece = "X")
 end
