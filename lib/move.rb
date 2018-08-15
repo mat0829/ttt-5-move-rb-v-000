@@ -12,5 +12,5 @@ def input_to_index(user_input)
 end
 
 def move(board, position_on_board, game_piece = "X")
-  board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
+  board = ["", " ", " ", " ", " ", " ", " ", " ", " "]
 end
